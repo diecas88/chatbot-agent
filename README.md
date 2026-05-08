@@ -1,5 +1,5 @@
-# Chatbot Agentcore
+# Chatbot Agent
 
-### About 
+### Un agente que nos ayudará a saber el estado de nuestros pedidos y actualizar los estados 
 
-AI-powered order management system using Amazon Bedrock Agents, AWS Lambda, and a transactional database to query and update order statuses through natural language interactions. 
+Sistema de gestión de pedidos impulsado por IA que utiliza Amazon Bedrock Agents, AWS Lambda y una base de datos transaccional para consultar y actualizar el estado de los pedidos mediante interacciones en lenguaje natural.
