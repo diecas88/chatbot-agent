@@ -1,0 +1,90 @@
+  {
+    "order_id": "1001",
+    "customer_code": "CUST-001",
+    "date_created": "2026-05-01T09:15:00Z",
+    "status": "PENDIENTE",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Customer requested priority processing and asked to be notified once the package leaves the warehouse. Payment verification completed successfully."
+  },
+  {
+    "order_id": "1002",
+    "customer_code": "CUST-002",
+    "date_created": "2026-05-01T11:42:00Z",
+    "status": "ENVIADO",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Order shipped through standard delivery service. Tracking information was sent automatically to the customer email address."
+  },
+  {
+    "order_id": "1003",
+    "customer_code": "CUST-003",
+    "date_created": "2026-05-02T08:20:00Z",
+    "status": "ENTREGADO",
+    "delivered": true,
+    "date_delivered": "2026-05-03T16:30:00Z",
+    "observations": "Package delivered successfully to the reception desk. Customer confirmed the delivery by phone and reported no issues with the products."
+  },
+  {
+    "order_id": "1004",
+    "customer_code": "CUST-004",
+    "date_created": "2026-05-02T14:05:00Z",
+    "status": "PENDIENTE",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Customer requested a change in delivery address shortly after placing the order. Waiting for confirmation from logistics department."
+  },
+  {
+    "order_id": "1005",
+    "customer_code": "CUST-005",
+    "date_created": "2026-05-03T10:10:00Z",
+    "status": "ENVIADO",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Shipment delayed due to weather conditions affecting the transportation route. Estimated delivery date updated in the system."
+  },
+  {
+    "order_id": "1006",
+    "customer_code": "CUST-006",
+    "date_created": "2026-05-03T13:48:00Z",
+    "status": "ENTREGADO",
+    "delivered": true,
+    "date_delivered": "2026-05-04T12:05:00Z",
+    "observations": "Order received by customer directly at the provided address. Signature verification completed and archived for compliance purposes."
+  },
+  {
+    "order_id": "1007",
+    "customer_code": "CUST-007",
+    "date_created": "2026-05-04T07:55:00Z",
+    "status": "PENDIENTE",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Inventory validation still in progress because one of the requested products is currently under restocking process."
+  },
+  {
+    "order_id": "1008",
+    "customer_code": "CUST-008",
+    "date_created": "2026-05-04T15:30:00Z",
+    "status": "ENVIADO",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Express shipping selected by the customer. Carrier confirmed pickup and estimated next-day delivery."
+  },
+  {
+    "order_id": "1009",
+    "customer_code": "CUST-009",
+    "date_created": "2026-05-05T09:05:00Z",
+    "status": "ENTREGADO",
+    "delivered": true,
+    "date_delivered": "2026-05-05T18:20:00Z",
+    "observations": "Customer reported that the package arrived in perfect condition. Follow-up satisfaction survey sent automatically."
+  },
+  {
+    "order_id": "1010",
+    "customer_code": "CUST-010",
+    "date_created": "2026-05-05T17:12:00Z",
+    "status": "PENDIENTE",
+    "delivered": false,
+    "date_delivered": "N/A",
+    "observations": "Awaiting manual approval from finance department due to payment verification inconsistencies detected during processing."
+  }
